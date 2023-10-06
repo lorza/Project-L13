@@ -1,6 +1,5 @@
 # Project-L13
 AI chatbot in education
-AI Chatbot in Education
 
 Project-L13: AI Chatbot in Education
 Table of Contents
