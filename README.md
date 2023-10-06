@@ -40,10 +40,7 @@ Progress Tracking: Students can track their learning progress and receive recomm
 Multi-Language Support: Project-L13 supports multiple languages to cater to a global audience.
 
 Getting Started
-To get started with Project-L13, follow these steps:
-
-Clone the repository:
-
+To get started with Project-L13
 bash
 Copy code
 git clone https://github.com/lorza/Project-L13.git
@@ -52,23 +49,21 @@ Install the required dependencies by running:
 bash
 Copy code
 pip install -r requirements.txt
-Set up the chatbot by configuring the necessary parameters, such as language, subjects, and learning goals.
+The chatbot was setup by configuring the necessary parameters, such as language, subjects, and learning goals.
 
-Run the chatbot application:
-
+Run the chatbot application :
+https://poe.com/Thirteen13
+Your personal superbot assistant 
 bash
 Copy code
 python chatbot.py
-Access the chatbot through a web interface or integrate it into your educational platform.
-
-Usage
-Visit the chatbot's web interface or integrate it into your education platform.
-
+Access the chatbot through a web interface Poe.com and at the moment is not integrated into any educational platform.
 Start a conversation with the chatbot by typing in your questions or requests.
 
 The chatbot will provide personalized responses, assist with learning, and track your progress.
 
 Enjoy the benefits of interactive and personalized education!
+https://poe.com/Thirteen13
 
 Technology Stack
 Project-L13 is built using the following technologies:
